@@ -1,0 +1,5 @@
+*.pyc
+*.sqlite3
+db.sqlite3
+profile_images/Screen_Shot_2015-11-29_at_2.04.46_pm.png
+env
